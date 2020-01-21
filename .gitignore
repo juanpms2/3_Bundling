@@ -1,3 +1,6 @@
 /node_modules
 /.cache
 /dist
+/parcel/node_modules
+/parcel/.cache
+/parcel/dist
